@@ -123,11 +123,21 @@ Key business questions answered:
 
 Created multiple charts using **Matplotlib**:
 
-- Top 10 Bestselling Products
-- Top Revenue Products
-- Sales by Hour
-- Sales by Day of Week
-- Sales by Month
+- Top 10 Bestselling Products:
+  <img width="707" height="496" alt="image" src="https://github.com/user-attachments/assets/ca969163-ab2e-4bbc-b6ec-bb74ee938bb6" />
+
+- Top Revenue Products:
+  <img width="707" height="496" alt="image" src="https://github.com/user-attachments/assets/10398a75-6e3d-4838-9832-996da086e836" />
+
+- Sales by Hour:
+  <img width="615" height="441" alt="image" src="https://github.com/user-attachments/assets/90b16576-a811-4ca9-9f76-396c2b7e12d3" />
+
+- Sales by Day of Week:
+  <img width="352" height="352" alt="image" src="https://github.com/user-attachments/assets/b26b0850-f033-4cb3-93d2-cfd572c18c03" />
+
+- Sales by Month:
+  <img width="496" height="352" alt="image" src="https://github.com/user-attachments/assets/1ba45774-1815-4bec-82fb-6c8e771880e5" />
+
 
 These visualizations help translate raw data into **clear business insights**.
 
