@@ -126,17 +126,21 @@ Created multiple charts using **Matplotlib**:
 - Top 10 Bestselling Products:
   <img width="918" height="624" alt="image" src="https://github.com/user-attachments/assets/11a462b9-1031-44ac-9b09-366523b558bf" />
 
+
 - Top Revenue Products:
-  <img width="934" height="635" alt="image" src="https://github.com/user-attachments/assets/43dec5ca-de52-46c4-8ab0-3bd2e490dd1f" />
+  <img width="918" height="600" alt="image" src="https://github.com/user-attachments/assets/43dec5ca-de52-46c4-8ab0-3bd2e490dd1f" />
+
 
 - Sales by Hour:
-  <img width="819" height="552" alt="image" src="https://github.com/user-attachments/assets/a3cbc874-0c50-4b7b-9ad1-f06080a6eaa5" />
+  <img width="800" height="550" alt="image" src="https://github.com/user-attachments/assets/a3cbc874-0c50-4b7b-9ad1-f06080a6eaa5" />
+
 
 - Sales by Day of Week:
-  <img width="497" height="443" alt="image" src="https://github.com/user-attachments/assets/af81fb83-021b-4113-82c8-258fd2faccdd" />
+  <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/af81fb83-021b-4113-82c8-258fd2faccdd" />
+
 
 - Sales by Month:
-  <img width="665" height="435" alt="image" src="https://github.com/user-attachments/assets/bb0fd551-5c8e-4f59-9453-e92dc6efcec4" />
+  <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/bb0fd551-5c8e-4f59-9453-e92dc6efcec4" />
 
 These visualizations help translate raw data into **clear business insights**.
 
